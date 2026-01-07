@@ -14,7 +14,7 @@ From: Juan S., Data Analyst
 Date: January 2026
 Subject: Data-Driven Insights for Category Engagement Optimization
 
-1. Project Overview
+**1. Project Overview**
 
 This project was developed to automate the analysis of social media performance across diverse categories (Health, Tech, Family, Food, etc.). The goal was to transform raw, unstructured tweet data into actionable marketing intelligence to increase client reach and ensure budget efficiency.
 
