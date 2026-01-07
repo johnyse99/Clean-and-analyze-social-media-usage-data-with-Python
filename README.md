@@ -1,6 +1,9 @@
 # Clean-and-analyze-social-media-usage-data-with-Python
 This project provides a comprehensive solution for a marketing agency to analyze social media performance across key categories like Health, Food, and Tech. It automates the data lifecycle from generation to prescriptive visualization.
 
+<img width="1876" height="938" alt="preview" src="https://github.com/user-attachments/assets/1b825234-4e10-40dd-a8ac-e8b47fce0596" />
+
+
 # 📊 Social Media Insights: Marketing Content Analysis
 
 ## Project Overview
