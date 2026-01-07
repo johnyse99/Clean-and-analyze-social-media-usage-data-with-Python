@@ -13,7 +13,7 @@ st.sidebar.header("Filter Options")
 
 # Load data from the Notebook output
 try:
-    df = pd.read_csv("cleaned_social_data.csv")
+    df = pd.read_csv("./data/cleaned_social_data.csv")
 
     # Sidebar Filters
     category = st.sidebar.multiselect(
@@ -49,3 +49,4 @@ except FileNotFoundError:
     st.error(
         "Please run the Jupyter Notebook first to generate 'cleaned_social_data.csv'."
     )
+
