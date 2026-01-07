@@ -7,18 +7,17 @@ This project provides a comprehensive solution for a marketing agency to analyze
 # 📊 Social Media Insights: Marketing Content Analysis
 
 
-# 📄 Executive Summary:
+## 📄 Executive Summary
 
 To: Marketing Department Stakeholders
-
 From: Juan S., Data Analyst
-
 Date: January 2026
-
 Subject: Data-Driven Insights for Category Engagement Optimization
+
 1. Project Overview
 
 This project was developed to automate the analysis of social media performance across diverse categories (Health, Tech, Family, Food, etc.). The goal was to transform raw, unstructured tweet data into actionable marketing intelligence to increase client reach and ensure budget efficiency.
+
 2. Core Problem
 
 Marketing teams often struggle with "data noise" and manual reporting, leading to delayed campaigns and suboptimal placement of content. Our client needed a way to identify high-performing content patterns to deliver results faster and within budget.
@@ -26,32 +25,24 @@ Marketing teams often struggle with "data noise" and manual reporting, leading t
 
 We implemented an end-to-end Data Engineering and Analytics pipeline:
 
-    Data Integrity: Built a robust cleaning engine using Python and Regex to eliminate 100% of irrelevant noise (URLs, special characters).
-
-    Sentiment Intelligence: Applied Natural Language Processing (NLP) to categorize the emotional tone of the content.
-
-    Interactive Analytics: Developed a Streamlit dashboard to allow real-time filtering and performance tracking.
+- Data Integrity: Built a robust cleaning engine using Python and Regex to eliminate 100% of irrelevant noise (URLs, special characters).
+- Sentiment Intelligence: Applied Natural Language Processing (NLP) to categorize the emotional tone of the content.
+- Interactive Analytics: Developed a Streamlit dashboard to allow real-time filtering and performance tracking.
 
 4. Key Strategic Findings
 
-    Category Synergy: The "Tech" and "Health" categories showed a 25% higher engagement rate compared to the general average.
-
-    Sentiment Impact: Positive sentiment is the primary driver for "Retweets," whereas neutral informative posts drive "Likes."
-
-    Efficiency Gain: Automated cleaning reduced data preparation time by approximately 5 hours per week per analyst.
+- Category Synergy: The "Tech" and "Health" categories showed a 25% higher engagement rate compared to the general average.
+- Sentiment Impact: Positive sentiment is the primary driver for "Retweets," whereas neutral informative posts drive "Likes."
+- Efficiency Gain: Automated cleaning reduced data preparation time by approximately 5 hours per week per analyst.
 
 5. Business Recommendations
 
-    Prioritize High-ROI Categories: Reallocate underperforming "Beauty" budget into "Tech" and "Health" for the next quarter.
-
-    Timing Optimization: Align post delivery with the peak engagement hours identified in the descriptive analysis.
-
-    Scale NLP Usage: Use the predictive sentiment model to pre-screen content before publication to ensure it meets the "Positive Tone" threshold.
+- Prioritize High-ROI Categories: Reallocate underperforming "Beauty" budget into "Tech" and "Health" for the next quarter.
+- Timing Optimization: Align post delivery with the peak engagement hours identified in the descriptive analysis.
+- Scale NLP Usage: Use the predictive sentiment model to pre-screen content before publication to ensure it meets the "Positive Tone" threshold.
 
 ## Project Overview
 This project provides a comprehensive solution for a marketing agency to analyze social media performance across key categories like Health, Food, and Tech. It automates the data lifecycle from generation to prescriptive visualization.
-
-
 
 ## 🛠️ Components
 1. **Jupyter Notebook**: Contains the core engineering pipeline (Data Generation, Cleaning, and EDA).
