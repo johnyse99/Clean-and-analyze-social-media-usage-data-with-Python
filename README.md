@@ -28,6 +28,8 @@ A: By implementing a validation pipeline that removes null values, eliminates du
 **Q: Why choose Streamlit for a marketing client?**
 A: It bridges the gap between technical analysis and business decision-making, providing a user-friendly interface for non-technical stakeholders.
 
+---
+
 📄 **License**
 This project is distributed under the MIT license. Its purpose is strictly educational and research-based, developed as an Applied Data Science solution.
 
