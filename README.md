@@ -18,10 +18,11 @@ Subject: Data-Driven Insights for Category Engagement Optimization
 
 This project was developed to automate the analysis of social media performance across diverse categories (Health, Tech, Family, Food, etc.). The goal was to transform raw, unstructured tweet data into actionable marketing intelligence to increase client reach and ensure budget efficiency.
 
-2. Core Problem
+**2. Core Problem**
 
 Marketing teams often struggle with "data noise" and manual reporting, leading to delayed campaigns and suboptimal placement of content. Our client needed a way to identify high-performing content patterns to deliver results faster and within budget.
-3. Methodology
+
+**3. Methodology**
 
 We implemented an end-to-end Data Engineering and Analytics pipeline:
 
@@ -29,13 +30,13 @@ We implemented an end-to-end Data Engineering and Analytics pipeline:
 - Sentiment Intelligence: Applied Natural Language Processing (NLP) to categorize the emotional tone of the content.
 - Interactive Analytics: Developed a Streamlit dashboard to allow real-time filtering and performance tracking.
 
-4. Key Strategic Findings
+**4. Key Strategic Findings**
 
 - Category Synergy: The "Tech" and "Health" categories showed a 25% higher engagement rate compared to the general average.
 - Sentiment Impact: Positive sentiment is the primary driver for "Retweets," whereas neutral informative posts drive "Likes."
 - Efficiency Gain: Automated cleaning reduced data preparation time by approximately 5 hours per week per analyst.
 
-5. Business Recommendations
+**5. Business Recommendations**
 
 - Prioritize High-ROI Categories: Reallocate underperforming "Beauty" budget into "Tech" and "Health" for the next quarter.
 - Timing Optimization: Align post delivery with the peak engagement hours identified in the descriptive analysis.
